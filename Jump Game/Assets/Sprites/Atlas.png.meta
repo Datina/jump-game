@@ -1,0 +1,209 @@
+fileFormatVersion: 2
+guid: c5c6e2ba9ca9dc54d87004512d33b542
+timeCreated: 1432477316
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: cuerpo
+    21300002: item
+    21300004: cola2
+    21300006: bloquemediano
+    21300008: cola1
+    21300010: pie
+    21300012: brazo
+    21300014: oreja2
+    21300016: cabeza
+    21300018: "bloquepeque\xF1o"
+    21300020: oreja1
+    21300022: Atlas_11
+    21300024: Atlas_12
+    21300026: bloquegrande
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 110
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: cuerpo
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 148
+        width: 96
+        height: 106
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: item
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 172
+        width: 68
+        height: 82
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cola2
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 229
+        width: 51
+        height: 25
+      alignment: 9
+      pivot: {x: .944673419, y: .758192122}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bloquemediano
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 160
+        width: 547
+        height: 67
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cola1
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 175
+        width: 48
+        height: 53
+      alignment: 9
+      pivot: {x: .874413788, y: .874956787}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pie
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 157
+        width: 25
+        height: 13
+      alignment: 9
+      pivot: {x: .322075486, y: .785136282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: brazo
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 115
+        width: 23
+        height: 43
+      alignment: 9
+      pivot: {x: .528315008, y: .906328082}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oreja2
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 121
+        width: 38
+        height: 51
+      alignment: 9
+      pivot: {x: .500001609, y: .150263473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cabeza
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 62
+        width: 101
+        height: 84
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "bloquepeque\xF1o"
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 86
+        width: 275
+        height: 69
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oreja1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 45
+        height: 58
+      alignment: 9
+      pivot: {x: .725151002, y: .154888064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Atlas_11
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 2
+        width: 42
+        height: 58
+      alignment: 9
+      pivot: {x: .476464957, y: .870675921}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Atlas_12
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 3
+        width: 45
+        height: 57
+      alignment: 9
+      pivot: {x: .478034139, y: .855502009}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bloquegrande
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 17
+        width: 824
+        height: 67
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
